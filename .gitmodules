@@ -1,0 +1,3 @@
+[submodule "todo-list-api"]
+	path = todo-list-api
+	url = https://github.com/bernardoaquino/todo-list-api
